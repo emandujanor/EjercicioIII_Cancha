@@ -1,0 +1,21 @@
+section{
+  background-color: #4B8A08;
+  width: 600px;
+  height: 300px;
+  margin: 50px auto 0px auto;
+  display: block;
+  position: relative;
+}
+.porteria{
+  width: 80px;
+  height: 200px;
+  border:solid white;
+  margin-top:50px;
+  position: absolute;
+}
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
